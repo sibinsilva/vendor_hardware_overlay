@@ -67,6 +67,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-hw-ims \
 	treble-overlay-infinix-hot10 \
 	treble-overlay-infinix-hot30 \
+	treble-overlay-infinix-hot30i-x669c \
+	treble-overlay-infinix-hot30i-x669c-systemui \
 	treble-overlay-infinix-hot60pro \
 	treble-overlay-infinix-hot60pro-systemui \
 	treble-overlay-infinix-hot60proplus \
@@ -91,8 +93,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-infinix-zero6 \
 	treble-overlay-infinix-zeroxpro \
 	treble-overlay-inoi-a75 \
-    treble-overlay-lenovo-P89990JA1 \
-    treble-overlay-lenovo-P89990JA1-systemui \
+	treble-overlay-lenovo-P89990JA1 \
+	treble-overlay-lenovo-P89990JA1-systemui \
 	treble-overlay-lenovo-Q706F \
 	treble-overlay-lenovo-TB610FU \
 	treble-overlay-lenovo-Y70 \
@@ -163,6 +165,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-motorola-austin-systemui \
 	treble-overlay-motorola-boston \
 	treble-overlay-motorola-boston-systemui \
+	treble-overlay-moto-malmo \
 	treble-overlay-mtk-ims \
 	treble-overlay-multilaser-m84gso0v \
 	treble-overlay-nokia-b2n-7plus \
@@ -450,7 +453,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-pocom5 \
 	treble-overlay-xiaomi-pocom5-systemui \
 	treble-overlay-xiaomi-pocox3gt \
-    treble-overlay-xiaomi-redmi10c \
+	treble-overlay-xiaomi-redmi10c \
 	treble-overlay-xiaomi-redmi10c-systemui \
 	treble-overlay-xiaomi-redmi10x5g \
 	treble-overlay-xiaomi-redmi10x5g-systemui \
@@ -510,3 +513,4 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-thor \
 	treble-overlay-xiaomi-tides \
 	treble-overlay-xiaomi-tides-systemui \
+
